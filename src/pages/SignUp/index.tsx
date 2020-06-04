@@ -17,8 +17,6 @@ import logoImg from '../../assets/logo.png';
 import {
   Container,
   Title,
-  ForgotPassword,
-  ForgotPasswordText,
   BackToSignInButton,
   BackToSignInButtonText,
 } from './styles';
